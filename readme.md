@@ -66,16 +66,12 @@ organisations identify risks, secure systems, and respond effectively to modern 
 />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,github,docker,aws,azure,mysql,postgres,js,html,css" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/Wireshark-001100?style=for-the-badge&logo=wireshark&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/Nmap-001a00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wazuh-002200?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nessus-003300?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SOC%20Analysis-000000?style=for-the-badge&logo=elastic&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Threat%20Detection-001100?style=for-the-badge&logo=target&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Cloud%20Security-002200?style=for-the-badge&logo=amazonaws&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Active%20Directory-003300?style=for-the-badge&logo=microsoft&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/GRC-001a00?style=for-the-badge&logo=bookstack&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/AI%20Security-000000?style=for-the-badge&logo=openai&logoColor=00ff41" />
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 
