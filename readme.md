@@ -199,13 +199,14 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 
 
 <div align="center">
-<img
-  src="https://github.com/user-attachments/assets/9532ed25-d2dd-493b-9492-b98f0f7ecf3c"
-  width="250"
-  height="190"
-  style="border-radius:50%; object-fit:cover;"
-  alt="What I Am Learning"
-/>
+ 
+  <img
+    src="https://github.com/user-attachments/assets/9532ed25-d2dd-493b-9492-b98f0f7ecf3c"
+    width="250"
+    height="190"
+    style="border-radius:50%; object-fit:cover;"
+    alt="What I Am Learning"
+  />
 - Security monitoring and alert triage
 - SIEM dashboards and detection rules
 - Cloud IAM and misconfiguration analysis
