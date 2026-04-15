@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:001100,45:003300,70:001a00,100:000000&height=310&section=header&text=Anil%20Budthapa&fontSize=65&fontColor=00ff41&animation=twinkling&fontAlignY=36&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Cloud%20Security%20%7C%20Active%20Directory%20%7C%20GRC&descAlignY=56&descSize=19&descColor=00ff99" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&pause=80&color=00FF41&center=true&vCenter=true&width=1000&lines=01010101+10101010+00110011+11001100+11110000;ACCESS_GRANTED+%3E+SYSTEM_ONLINE+%3E+LOGS_MONITORED;SOC_ANALYSIS+%3E+THREAT_DETECTION+%3E+CLOUD_SECURITY" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=900&color=00FF41&center=true&vCenter=true&width=950&lines=%3E+Initializing+Cybersecurity+Portfolio...;%3E+Loading+SOC+%7C+Cloud+%7C+AI+Security...;%3E+Building+Detection+Labs+and+Security+Tools...;%3E+Access+Granted+to+Anil's+GitHub" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:000000,70:001100,100:000000&height=310&section=header&text=Anil%20Budthapa&fontSize=65&fontColor=00ff41&animation=twinkling&fontAlignY=36&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Cloud%20Security%20%7C%20Active%20Directory%20%7C%20GRC&descAlignY=56&descSize=19&descColor=00ff99" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=950&lines=%3E+Initializing+Cybersecurity+Portfolio...;%3E+Loading+SOC+%7C+Cloud+%7C+AI+Security...;%3E+Building+Detection+Labs+and+Security+Tools...;%3E+Access+Granted+to+Anil's+GitHub" />
 
 <br/>
 
@@ -59,15 +61,7 @@ mission:
 <img src="https://img.shields.io/badge/AI%20Security-000000?style=for-the-badge&logo=openai&logoColor=00ff41" />
 </p>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,25:001100,50:003300,75:001100,100:000000&height=145&section=header&text=Security%20Operations%20%7C%20Cloud%20%7C%20AI%20%7C%20GRC&fontSize=28&fontColor=00ff41&animation=twinkling" />
-
-</div>
-
 ## 🛠️ Tech Stack
-
-### 🔐 Security & Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,github,docker,aws,azure,mysql,postgres,js,html,css" />
@@ -81,12 +75,6 @@ mission:
 <img src="https://img.shields.io/badge/Wazuh-002200?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Nessus-003300?style=for-the-badge" />
 </p>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
-
-</div>
 
 ## 📌 Featured Project Areas
 
