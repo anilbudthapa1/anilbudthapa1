@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I'm Anil Budthapa
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:312e81,70:7c3aed,100:0f172a&height=280&section=header&text=Anil%20Budthapa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Cloud%20Security%20%7C%20Active%20Directory%20%7C%20GRC&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=850&lines=Cybersecurity+Professional+%7C+Security+Analyst+Path;Security+%2B+AI+%2B+Cloud+%2B+Active+Directory+%2B+GRC;Building+Real-World+Security+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Building+Real-World+Cybersecurity+Projects;Security+Analyst+%7C+Cloud+Security+%7C+AI+Security;Learning+Deeply+%7C+Building+Practically+%7C+Securing+Responsibly" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=anilbudthapa1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=anilbudthapa1&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-7c3aed?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Building%20Portfolio-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Goal-Security%20Analyst-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Goal-Security%20Analyst-blue?style=for-the-badge" />
 
 </div>
 
@@ -23,6 +23,7 @@ I enjoy creating real-world security projects, writing clean documentation, buil
 
 ```yaml
 name: Anil Budthapa
+username: anilbudthapa1
 focus:
   - Security Analyst
   - Cloud Security
@@ -80,6 +81,14 @@ currently_building:
 
 ---
 
+## 🧠 Cybersecurity Roadmap
+
+```txt
+Networking → Linux → Python → Security Tools → SOC → Cloud Security → AD Security → AI Security → GRC
+```
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -126,6 +135,18 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 
 ---
 
+## 📚 What I Am Learning
+
+- Security monitoring and alert triage
+- SIEM dashboards and detection rules
+- Cloud IAM and misconfiguration analysis
+- Active Directory attack paths and hardening
+- Risk assessment and compliance mapping
+- Python automation for cybersecurity
+- AI-assisted threat analysis
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -134,7 +155,7 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:hypemsltech@gmail.com@gmail.com">
+<a href="mailto:hypemsltech@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
@@ -147,6 +168,8 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 ---
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:020617&height=120&section=footer" />
 
 ### ⚡ Motto
 
