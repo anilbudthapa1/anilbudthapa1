@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:312e81,70:7c3aed,100:0f172a&height=260&section=header&text=Anil%20Budthapa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Cloud%20Security%20%7C%20Active%20Directory%20%7C%20GRC&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,30:1e1b4b,60:6d28d9,100:020617&height=340&section=header&text=Anil%20Budthapa&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Cloud%20Security%20%7C%20Active%20Directory%20%7C%20GRC&descAlignY=58&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Building+Real-World+Cybersecurity+Projects;Security+Analyst+%7C+Cloud+Security+%7C+AI+Security;Learning+Deeply+%7C+Building+Practically+%7C+Securing+Responsibly" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=950&lines=Building+Real-World+Cybersecurity+Projects;Security+Analyst+%7C+Cloud+Security+%7C+AI+Security;Learning+Deeply+%7C+Building+Practically+%7C+Securing+Responsibly" />
 
 <br/>
 
@@ -11,13 +11,9 @@
 <img src="https://img.shields.io/badge/Status-Building%20Portfolio-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Goal-Security%20Analyst-blue?style=for-the-badge" />
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:7c3aed,100:020617&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,20:312e81,50:7c3aed,80:312e81,100:020617&height=8" />
 
 </div>
 
@@ -43,28 +39,26 @@ currently_building:
   - Cloud Security Projects
 ```
 
----
-
 <div align="center">
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=100&color=7C3AED&center=true&vCenter=true&width=1000&lines=%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93;%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92;%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:7c3aed,100:020617&height=5" />
 
 </div>
 
 ## 🚀 Current Focus
 
+<p align="center">
 <img src="https://img.shields.io/badge/SOC%20Analysis-111827?style=for-the-badge&logo=elastic&logoColor=white" />
 <img src="https://img.shields.io/badge/Threat%20Detection-DC2626?style=for-the-badge&logo=target&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloud%20Security-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/GRC-16A34A?style=for-the-badge&logo=bookstack&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20Security-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-
----
+</p>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,50:312e81,100:7c3aed&height=120&section=header&text=Security%20%7C%20Cloud%20%7C%20AI%20%7C%20GRC&fontSize=25&fontColor=ffffff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,35:312e81,70:7c3aed,100:020617&height=170&section=header&text=Security%20%7C%20Cloud%20%7C%20AI%20%7C%20GRC&fontSize=33&fontColor=ffffff&animation=twinkling" />
 
 </div>
 
@@ -72,18 +66,24 @@ currently_building:
 
 ### 🔐 Security & Development
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,github,docker,aws,azure,mysql,postgres,js,html,css" />
+</p>
 
-<br/><br/>
-
+<p align="center">
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Nessus-00A3E0?style=for-the-badge" />
+</p>
 
----
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:7c3aed,100:020617&height=5" />
+
+</div>
 
 ## 📌 Featured Project Areas
 
@@ -97,11 +97,9 @@ currently_building:
 | 🎣 **Phishing Investigation Toolkit** | Email header, URL, and attachment analysis |
 | 🔎 **Vulnerability Management Platform** | Scan, classify, report, and track vulnerabilities |
 
----
-
 <div align="center">
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=100&color=00FF9C&center=true&vCenter=true&width=1000&lines=01010101+10101010+00110011+11001100+11110000;10101010+01010101+11001100+00110011+00001111;00110011+11110000+01010101+10101010+11001100" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:020617,30:312e81,60:7c3aed,100:020617&height=180&section=header&text=010101%20Threat%20Detection%20010101&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -121,7 +119,7 @@ Networking → Linux → Python → Security Tools → SOC → Cloud Security �
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilbudthapa1&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anilbudthapa1&theme=tokyonight&hide_border=true" />
 
@@ -189,11 +187,9 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 
 </div>
 
----
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:020617&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312e81,70:7c3aed,100:020617&height=180&section=footer&animation=twinkling" />
 
 ### ⚡ Motto
 
