@@ -19,60 +19,32 @@
 
 <div align="center">
 
-<svg width="720" height="320" viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="aboutCircle">
-      <circle cx="150" cy="160" r="118"/>
-    </clipPath>
-  </defs>
-
-  <!-- Right card -->
-  <rect x="170" y="45" width="500" height="230" rx="14" fill="#f0f2f5" stroke="#c8c8d0" stroke-width="1"/>
-
-  <!-- Left circle photo -->
-  <image
-    href="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2"
-    x="32"
-    y="42"
-    width="236"
-    height="236"
-    preserveAspectRatio="xMidYMid slice"
-    clip-path="url(#aboutCircle)"
-  />
-
-  <!-- Circle border -->
-  <circle cx="150" cy="160" r="118" fill="none" stroke="#4a90d9" stroke-width="2"/>
-  <circle cx="150" cy="160" r="72" fill="none" stroke="#4a90d9" stroke-width="0.8" stroke-dasharray="5 4" opacity="0.45"/>
-  <circle cx="150" cy="160" r="92" fill="none" stroke="#4a90d9" stroke-width="0.6" stroke-dasharray="3 5" opacity="0.25"/>
-
-  <!-- Text -->
-  <text x="310" y="82" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#185FA5">
-    Aspiring cybersecurity professional
-  </text>
-
-  <line x1="310" y1="94" x2="645" y2="94" stroke="#4a90d9" stroke-width="0.7" opacity="0.4"/>
-
-  <text x="310" y="125" font-family="Arial, sans-serif" font-size="12" fill="#333">
-    <tspan x="310" dy="0">Strong interest in Security Operations, AI Security,</tspan>
-    <tspan x="310" dy="18">Cloud Security, Active Directory, and GRC.</tspan>
-  </text>
-
-  <text x="310" y="175" font-family="Arial, sans-serif" font-size="12" fill="#333">
-    <tspan x="310" dy="0">Building practical security projects, documenting</tspan>
-    <tspan x="310" dy="18">real-world labs, and creating automation tools that</tspan>
-    <tspan x="310" dy="18">improve detection, analysis, and defensive workflows.</tspan>
-  </text>
-
-  <text x="310" y="245" font-family="Arial, sans-serif" font-size="12" fill="#555">
-    <tspan x="310" dy="0">Goal: help organisations identify risks, secure systems,</tspan>
-    <tspan x="310" dy="18">and respond effectively to modern cyber threats.</tspan>
-  </text>
-
-  <!-- Accent bars -->
-  <rect x="310" y="265" width="55" height="4" rx="2" fill="#4a90d9" opacity="0.75"/>
-  <rect x="372" y="265" width="36" height="4" rx="2" fill="#a78bfa" opacity="0.55"/>
-  <rect x="415" y="265" width="20" height="4" rx="2" fill="#4a90d9" opacity="0.3"/>
-</svg>
+<table>
+  <tr>
+    <td width="230" align="center">
+      <img
+        src="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2"
+        width="200"
+        height="200"
+        style="border-radius:50%; border:2px solid #4a90d9; object-fit:cover;"
+        alt="About Me"
+      />
+    </td>
+    <td width="430">
+      <h3>𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍</h3>
+      <p>
+        <i>
+          I am an aspiring cybersecurity professional with a strong interest in
+          <b>Security Operations, AI Security, Cloud Security, Active Directory, and GRC</b>.
+          I enjoy building practical security projects, documenting real-world labs,
+          and creating automation tools that improve detection, analysis, and defensive workflows.
+          My goal is to develop into a well-rounded cybersecurity professional who can help
+          organisations identify risks, secure systems, and respond effectively to modern cyber threats.
+        </i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 <div align="center">
