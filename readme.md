@@ -18,14 +18,23 @@
 
 
 <div align="center">
-
 <img
-  src="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2"
+  src="https://github.com/user-attachments/assets/3b593836-b68c-43ef-adbf-8fe43a6acb9b"
   width="250"
   height="190"
   style="border-radius:50%; object-fit:cover;"
   alt="About Me"
 />
+<div align="center">
+
+<img
+  src="https://github.com/user-attachments/assets/3b593836-b68c-43ef-adbf-8fe43a6acb9b"
+  width="250"
+  height="190"
+  style="border-radius:50%; object-fit:cover;"
+  alt="About Me"
+/>
+
 
 <div align="left" style="max-width:500px;">
 
