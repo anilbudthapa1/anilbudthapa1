@@ -26,7 +26,6 @@
   alt="About Me"
 />
 
-
 <div align="left" style="max-width:500px;">
 
 <h3>𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍</h3>
@@ -44,7 +43,6 @@ organisations identify risks, secure systems, and respond effectively to modern 
 
 </div>
 
-</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=120&color=00FF41&center=true&vCenter=true&width=950&lines=01001000+01000001+01000011+01001011+01000101+01010010;SOC_ANALYSIS+%7C+THREAT_DETECTION+%7C+CLOUD_SECURITY;ACCESS_GRANTED+%7C+SYSTEM_HARDENED+%7C+LOGS_MONITORED" />
@@ -54,8 +52,6 @@ organisations identify risks, secure systems, and respond effectively to modern 
 </div>
  
 <div align="center">
-
-<div style="display:flex; align-items:center; justify-content:center; gap:24px; max-width:760px;">
 
 <img
   src="https://github.com/user-attachments/assets/1af1625c-a464-49f3-8f32-272993b5b970"
@@ -73,6 +69,7 @@ organisations identify risks, secure systems, and respond effectively to modern 
 <img src="https://img.shields.io/badge/GRC-001a00?style=for-the-badge&logo=bookstack&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/AI%20Security-000000?style=for-the-badge&logo=openai&logoColor=00ff41" />
 </p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 
 <img
@@ -82,7 +79,6 @@ organisations identify risks, secure systems, and respond effectively to modern 
   style="border-radius:50%; object-fit:cover;"
   alt="About Me"
 />
-
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,github,docker,aws,azure,mysql,postgres,js,html,css" />
@@ -96,8 +92,8 @@ organisations identify risks, secure systems, and respond effectively to modern 
 <img src="https://img.shields.io/badge/Wazuh-002200?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Nessus-003300?style=for-the-badge" />
 </p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
-<div align="center">
 
 <img
   src="https://github.com/user-attachments/assets/3b593836-b68c-43ef-adbf-8fe43a6acb9b"
@@ -117,32 +113,35 @@ organisations identify risks, secure systems, and respond effectively to modern 
 | 🎣 **Phishing Investigation Toolkit** | Email header, URL, and attachment analysis |
 | 🔎 **Vulnerability Management Platform** | Scan, classify, report, and track vulnerabilities |
 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 
-
-<div align="center">
 <img
   src="https://github.com/user-attachments/assets/a109bf1e-0269-4d18-aee9-06515d06ead2"
   width="250"
   height="190"
   style="border-radius:50%; object-fit:cover;"
-  alt="Feature"
+  alt="GitHub Stats"
 />
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anilbudthapa1&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilbudthapa1&layout=compact&theme=chartreuse-dark&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anilbudthapa1&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilbudthapa1&theme=github_dark" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anilbudthapa1&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anilbudthapa1&theme=github_dark&utcOffset=10" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=anilbudthapa1&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 </div>
 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
+
 ## 🟩 GitHub Contribution Heatmap
 
 <div align="center">
@@ -153,6 +152,7 @@ organisations identify risks, secure systems, and respond effectively to modern 
 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -163,6 +163,7 @@ organisations identify risks, secure systems, and respond effectively to modern 
 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
+
 ## 🎯 Career Goal
 
 ```txt
@@ -173,6 +174,7 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
+
 ## 📚 What I Am Learning
 
 - Security monitoring and alert triage
@@ -185,6 +187,7 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -207,6 +210,7 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001100,55:003300,80:001100,100:000000&height=180&section=footer&animation=twinkling" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
+
 ### ⚡ Motto
 
 > **Learn deeply. Build practically. Secure responsibly.**
