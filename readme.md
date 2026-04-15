@@ -23,7 +23,7 @@
 
 <img
   src="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2"
-  width="190"
+  width="250"
   height="190"
   style="border-radius:50%; object-fit:cover;"
   alt="About Me"
