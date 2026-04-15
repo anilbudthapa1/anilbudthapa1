@@ -16,19 +16,10 @@
 
 </div>
 
-
-<div align="center">
-<img
-  src="https://github.com/user-attachments/assets/3b593836-b68c-43ef-adbf-8fe43a6acb9b"
-  width="250"
-  height="190"
-  style="border-radius:50%; object-fit:cover;"
-  alt="About Me"
-/>
 <div align="center">
 
 <img
-  src="https://github.com/user-attachments/assets/3b593836-b68c-43ef-adbf-8fe43a6acb9b"
+  src="https://github.com/user-attachments/assets/9e252421-e5aa-4290-ba70-83d8dc8bf88b"
   width="250"
   height="190"
   style="border-radius:50%; object-fit:cover;"
