@@ -65,7 +65,7 @@ organisations identify risks, secure systems, and respond effectively to modern 
 <img src="https://img.shields.io/badge/GRC-001a00?style=for-the-badge&logo=bookstack&logoColor=00ff41" />
 <img src="https://img.shields.io/badge/AI%20Security-000000?style=for-the-badge&logo=openai&logoColor=00ff41" />
 </p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -80,7 +80,7 @@ organisations identify risks, secure systems, and respond effectively to modern 
 <img src="https://img.shields.io/badge/Wazuh-002200?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Nessus-003300?style=for-the-badge" />
 </p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 ## 📌 Featured Project Areas
 
 | Project | Description |
@@ -94,7 +94,7 @@ organisations identify risks, secure systems, and respond effectively to modern 
 | 🔎 **Vulnerability Management Platform** | Scan, classify, report, and track vulnerabilities |
 
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 ## 🧠 Cybersecurity Roadmap
 
 ```txt
@@ -102,7 +102,7 @@ Networking → Linux → Python → Security Tools → SOC → Cloud Security �
 ```
 
 ---
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -118,7 +118,7 @@ Networking → Linux → Python → Security Tools → SOC → Cloud Security �
 </div>
 
 ---
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 ## 🟩 GitHub Contribution Heatmap
 
 <div align="center">
@@ -128,7 +128,7 @@ Networking → Linux → Python → Security Tools → SOC → Cloud Security �
 </div>
 
 ---
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -138,7 +138,7 @@ Networking → Linux → Python → Security Tools → SOC → Cloud Security �
 </div>
 
 ---
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 ## 🎯 Career Goal
 
 ```txt
@@ -148,7 +148,7 @@ Security Analyst → Cloud Security → AI Security → Security Architect
 I am building my GitHub as a professional cybersecurity portfolio with practical labs, security tools, detection rules, cloud projects, and documentation.
 
 ---
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 ## 📚 What I Am Learning
 
 - Security monitoring and alert triage
@@ -160,7 +160,7 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 - AI-assisted threat analysis
 
 ---
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -182,7 +182,7 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001100,55:003300,80:001100,100:000000&height=180&section=footer&animation=twinkling" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 ### ⚡ Motto
 
 > **Learn deeply. Build practically. Secure responsibly.**
