@@ -54,8 +54,18 @@ organisations identify risks, secure systems, and respond effectively to modern 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 
 </div>
+ 
+<div align="center">
 
-## 🚀 Current Focus
+<div style="display:flex; align-items:center; justify-content:center; gap:24px; max-width:760px;">
+
+<img
+  src="https://github.com/user-attachments/assets/71f8bad7-4031-4a01-b916-7b31c42ddfb1"
+  width="190"
+  height="190"
+  style="border-radius:50%; object-fit:cover;"
+  alt="Current Focus"
+/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/SOC%20Analysis-000000?style=for-the-badge&logo=elastic&logoColor=00ff41" />
