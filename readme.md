@@ -76,7 +76,15 @@ organisations identify risks, secure systems, and respond effectively to modern 
 <img src="https://img.shields.io/badge/AI%20Security-000000?style=for-the-badge&logo=openai&logoColor=00ff41" />
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
-## 🛠️ Tech Stack
+
+<img
+  src="https://github.com/user-attachments/assets/206d578f-ae1d-4620-87a0-89b145e90b17"
+  width="250"
+  height="190"
+  style="border-radius:50%; object-fit:cover;"
+  alt="About Me"
+/>
+
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,git,github,docker,aws,azure,mysql,postgres,js,html,css" />
