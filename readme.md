@@ -129,6 +129,7 @@ organisations identify risks, secure systems, and respond effectively to modern 
   style="border-radius:50%; object-fit:cover;"
   alt="Feature"
 />
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anilbudthapa1&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
 
