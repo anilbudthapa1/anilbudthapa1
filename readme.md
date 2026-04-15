@@ -26,7 +26,7 @@
         src="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2"
         width="200"
         height="200"
-        style="border-radius:50%; border:2px solid #4a90d9; object-fit:cover;"
+        style="border-radius:50%; object-fit:cover;"
         alt="About Me"
       />
     </td>
