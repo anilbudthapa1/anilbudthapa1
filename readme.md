@@ -181,13 +181,13 @@ organisations identify risks, secure systems, and respond effectively to modern 
 
 
 <div align="center">
-<img
-  src="https://github.com/user-attachments/assets/488f18ed-268a-463b-b6d8-dbd4ccab7a98"
-  width="250"
-  height="190"
-  style="border-radius:50%; object-fit:cover;"
-  alt="Career Goal"
-/>
+  <img
+    src="https://github.com/user-attachments/assets/488f18ed-268a-463b-b6d8-dbd4ccab7a98"
+    width="250"
+    height="190"
+    style="border-radius:50%; object-fit:cover;"
+    alt="Career Goal"
+  />
 ```txt
 Security Analyst → Cloud Security → AI Security → Security Architect
 ```
