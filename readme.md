@@ -181,6 +181,7 @@ organisations identify risks, secure systems, and respond effectively to modern 
 
 
 <div align="center">
+  <div align="center">
   <img
     src="https://github.com/user-attachments/assets/488f18ed-268a-463b-b6d8-dbd4ccab7a98"
     width="250"
