@@ -142,7 +142,16 @@ organisations identify risks, secure systems, and respond effectively to modern 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 
-## 🟩 GitHub Contribution Heatmap
+
+<div align="center">
+
+<img
+  src="https://github.com/user-attachments/assets/aeb3612f-1e31-4e34-9d3c-f98c4e568739"
+  width="250"
+  height="190"
+  style="border-radius:50%; object-fit:cover;"
+  alt="GitHub Contribution Heatmap"
+/>
 
 <div align="center">
 
@@ -153,8 +162,14 @@ organisations identify risks, secure systems, and respond effectively to modern 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 
-## 🐍 Contribution Snake
-
+<div align="center">
+<img
+  src="https://github.com/user-attachments/assets/e36dfc97-0708-4707-92ad-fc7db98ee490"
+  width="250"
+  height="190"
+  style="border-radius:50%; object-fit:cover;"
+  alt="Contribution Snake"
+/>
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/anilbudthapa1/anilbudthapa1/output/github-contribution-grid-snake-dark.svg" />
@@ -164,8 +179,15 @@ organisations identify risks, secure systems, and respond effectively to modern 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 
-## 🎯 Career Goal
 
+<div align="center">
+<img
+  src="https://github.com/user-attachments/assets/488f18ed-268a-463b-b6d8-dbd4ccab7a98"
+  width="250"
+  height="190"
+  style="border-radius:50%; object-fit:cover;"
+  alt="Career Goal"
+/>
 ```txt
 Security Analyst → Cloud Security → AI Security → Security Architect
 ```
@@ -175,8 +197,15 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 
-## 📚 What I Am Learning
 
+<div align="center">
+<img
+  src="https://github.com/user-attachments/assets/9532ed25-d2dd-493b-9492-b98f0f7ecf3c"
+  width="250"
+  height="190"
+  style="border-radius:50%; object-fit:cover;"
+  alt="What I Am Learning"
+/>
 - Security monitoring and alert triage
 - SIEM dashboards and detection rules
 - Cloud IAM and misconfiguration analysis
@@ -188,7 +217,15 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 
-## 🤝 Connect With Me
+
+<div align="center">
+<img
+  src="https://github.com/user-attachments/assets/f9d0fdec-ca4b-472e-a157-9a6873bbf000"
+  width="250"
+  height="190"
+  style="border-radius:50%; object-fit:cover;"
+  alt="Connect With Me"
+/>
 
 <div align="center">
 
@@ -210,9 +247,5 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001100,55:003300,80:001100,100:000000&height=180&section=footer&animation=twinkling" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
-
-### ⚡ Motto
-
-> **Learn deeply. Build practically. Secure responsibly.**
 
 </div>
