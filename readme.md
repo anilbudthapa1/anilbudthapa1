@@ -17,9 +17,7 @@
 </div>
 
 
-<div align="center">
 
-<div style="display:flex; align-items:center; justify-content:center; gap:24px; max-width:760px;">
 
 <img
   src="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2"
