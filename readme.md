@@ -97,7 +97,15 @@ organisations identify risks, secure systems, and respond effectively to modern 
 <img src="https://img.shields.io/badge/Nessus-003300?style=for-the-badge" />
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
-## 📌 Featured Project Areas
+<div align="center">
+
+<img
+  src="https://github.com/user-attachments/assets/3b593836-b68c-43ef-adbf-8fe43a6acb9b"
+  width="250"
+  height="190"
+  style="border-radius:50%; object-fit:cover;"
+  alt="About Me"
+/>
 
 | Project | Description |
 |---|---|
