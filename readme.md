@@ -1,19 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:020617,55:111827,80:1e1b4b,100:000000&height=300&section=header&text=Anil%20Budthapa&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Cloud%20Security%20%7C%20Active%20Directory%20%7C%20GRC&descAlignY=56&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:001100,45:003300,70:001a00,100:000000&height=310&section=header&text=Anil%20Budthapa&fontSize=65&fontColor=00ff41&animation=twinkling&fontAlignY=36&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Cloud%20Security%20%7C%20Active%20Directory%20%7C%20GRC&descAlignY=56&descSize=19&descColor=00ff99" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=950&lines=Learning+Deeply+%7C+Building+Practically+%7C+Securing+Responsibly;Building+Real-World+Cybersecurity+Projects;Security+Analyst+%7C+Cloud+Security+%7C+AI+Security" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=900&color=00FF41&center=true&vCenter=true&width=950&lines=%3E+Initializing+Cybersecurity+Portfolio...;%3E+Loading+SOC+%7C+Cloud+%7C+AI+Security...;%3E+Building+Detection+Labs+and+Security+Tools...;%3E+Access+Granted+to+Anil's+GitHub" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=anilbudthapa1&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-7c3aed?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Building%20Portfolio-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Goal-Security%20Analyst-blue?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=anilbudthapa1&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-003300?style=for-the-badge&logo=hackthebox&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20PORTFOLIO-001100?style=for-the-badge&logo=github&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/GOAL-SECURITY%20ANALYST-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff41" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:020617,70:1e1b4b,100:000000&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:001100,50:00ff41,75:001100,100:000000&height=6" />
 
 </div>
 
@@ -26,39 +26,42 @@ I enjoy creating real-world security projects, writing clean documentation, buil
 ```yaml
 name: Anil Budthapa
 username: anilbudthapa1
+status: building_security_portfolio
 focus:
   - Security Analyst
   - Cloud Security
   - AI Security
   - Active Directory Security
   - GRC
-currently_building:
-  - Cybersecurity Portfolio
-  - SOC Labs
-  - AI Security Tools
-  - Cloud Security Projects
+mission:
+  - Detect threats
+  - Secure systems
+  - Automate analysis
+  - Build practical labs
 ```
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1e1b4b,100:000000&height=5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=120&color=00FF41&center=true&vCenter=true&width=950&lines=01001000+01000001+01000011+01001011+01000101+01010010;SOC_ANALYSIS+%7C+THREAT_DETECTION+%7C+CLOUD_SECURITY;ACCESS_GRANTED+%7C+SYSTEM_HARDENED+%7C+LOGS_MONITORED" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 
 </div>
 
 ## 🚀 Current Focus
 
 <p align="center">
-<img src="https://img.shields.io/badge/SOC%20Analysis-111827?style=for-the-badge&logo=elastic&logoColor=white" />
-<img src="https://img.shields.io/badge/Threat%20Detection-7F1D1D?style=for-the-badge&logo=target&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud%20Security-1E3A8A?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Active%20Directory-1D4ED8?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/GRC-14532D?style=for-the-badge&logo=bookstack&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Security-4C1D95?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/SOC%20Analysis-000000?style=for-the-badge&logo=elastic&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Threat%20Detection-001100?style=for-the-badge&logo=target&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Cloud%20Security-002200?style=for-the-badge&logo=amazonaws&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Active%20Directory-003300?style=for-the-badge&logo=microsoft&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/GRC-001a00?style=for-the-badge&logo=bookstack&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/AI%20Security-000000?style=for-the-badge&logo=openai&logoColor=00ff41" />
 </p>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,35:020617,70:1e1b4b,100:000000&height=150&section=header&text=Security%20%7C%20Cloud%20%7C%20AI%20%7C%20GRC&fontSize=32&fontColor=ffffff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,25:001100,50:003300,75:001100,100:000000&height=145&section=header&text=Security%20Operations%20%7C%20Cloud%20%7C%20AI%20%7C%20GRC&fontSize=28&fontColor=00ff41&animation=twinkling" />
 
 </div>
 
@@ -71,17 +74,17 @@ currently_building:
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp%20Suite-7C2D12?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-172554?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Wazuh-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Nessus-0C4A6E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Wireshark-001100?style=for-the-badge&logo=wireshark&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Nmap-001a00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wazuh-002200?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nessus-003300?style=for-the-badge" />
 </p>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1e1b4b,100:000000&height=5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
 
 </div>
 
@@ -99,7 +102,7 @@ currently_building:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,30:020617,70:1e1b4b,100:000000&height=140&section=header&text=010101%20Threat%20Detection%20010101&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,25:001100,50:003300,75:001100,100:000000&height=135&section=header&text=010101%20Threat%20Detection%20010101&fontSize=28&fontColor=00ff41&animation=fadeIn" />
 
 </div>
 
@@ -115,13 +118,13 @@ Networking → Linux → Python → Security Tools → SOC → Cloud Security �
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anilbudthapa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anilbudthapa1&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilbudthapa1&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilbudthapa1&layout=compact&theme=chartreuse-dark&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anilbudthapa1&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anilbudthapa1&theme=chartreuse-dark&hide_border=true" />
 
 </div>
 
@@ -131,7 +134,7 @@ Networking → Linux → Python → Security Tools → SOC → Cloud Security �
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anilbudthapa1&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anilbudthapa1&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -174,22 +177,22 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anilbudthapa">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" />
 </a>
 
 <a href="mailto:hypemsltech@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7F1D1D?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-001100?style=for-the-badge&logo=gmail&logoColor=00ff41" />
 </a>
 
 <a href="https://github.com/anilbudthapa1">
-<img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" />
 </a>
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:020617,70:1e1b4b,100:000000&height=180&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:001100,55:003300,80:001100,100:000000&height=180&section=footer&animation=twinkling" />
 
 ### ⚡ Motto
 
