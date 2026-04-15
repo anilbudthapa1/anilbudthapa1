@@ -16,71 +16,64 @@
 
 </div>
 
+
 <div align="center">
 
-<svg width="680" height="300" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="720" height="320" viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <clipPath id="aboutMeCircleClip">
-      <circle cx="120" cy="150" r="113"/>
+    <clipPath id="aboutCircle">
+      <circle cx="150" cy="160" r="118"/>
     </clipPath>
   </defs>
 
-  <rect x="160" y="25" width="490" height="250" rx="14" fill="#f0f2f5" stroke="#c8c8d0" stroke-width="1"/>
+  <!-- Right card -->
+  <rect x="170" y="45" width="500" height="230" rx="14" fill="#f0f2f5" stroke="#c8c8d0" stroke-width="1"/>
 
+  <!-- Left circle photo -->
   <image
     href="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2"
-    x="5"
-    y="35"
-    width="230"
-    height="230"
+    x="32"
+    y="42"
+    width="236"
+    height="236"
     preserveAspectRatio="xMidYMid slice"
-    clip-path="url(#aboutMeCircleClip)"
+    clip-path="url(#aboutCircle)"
   />
 
-  <circle cx="120" cy="150" r="113" fill="none" stroke="#4a90d9" stroke-width="2"/>
-  <circle cx="120" cy="150" r="60" fill="none" stroke="#4a90d9" stroke-width="0.8" stroke-dasharray="4 3" opacity="0.5"/>
-  <circle cx="120" cy="150" r="80" fill="none" stroke="#4a90d9" stroke-width="0.5" stroke-dasharray="2 4" opacity="0.25"/>
+  <!-- Circle border -->
+  <circle cx="150" cy="160" r="118" fill="none" stroke="#4a90d9" stroke-width="2"/>
+  <circle cx="150" cy="160" r="72" fill="none" stroke="#4a90d9" stroke-width="0.8" stroke-dasharray="5 4" opacity="0.45"/>
+  <circle cx="150" cy="160" r="92" fill="none" stroke="#4a90d9" stroke-width="0.6" stroke-dasharray="3 5" opacity="0.25"/>
 
-  <text x="288" y="60" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#185FA5">
+  <!-- Text -->
+  <text x="310" y="82" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#185FA5">
     Aspiring cybersecurity professional
   </text>
 
-  <line x1="288" y1="68" x2="635" y2="68" stroke="#4a90d9" stroke-width="0.5" opacity="0.4"/>
+  <line x1="310" y1="94" x2="645" y2="94" stroke="#4a90d9" stroke-width="0.7" opacity="0.4"/>
 
-  <text x="288" y="94" font-family="Arial, sans-serif" font-size="12" fill="#333">
-    <tspan x="288" dy="0">Strong interest in Security Operations, AI Security,</tspan>
-    <tspan x="288" dy="18">Cloud Security, Active Directory, and GRC.</tspan>
+  <text x="310" y="125" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    <tspan x="310" dy="0">Strong interest in Security Operations, AI Security,</tspan>
+    <tspan x="310" dy="18">Cloud Security, Active Directory, and GRC.</tspan>
   </text>
 
-  <text x="288" y="150" font-family="Arial, sans-serif" font-size="12" fill="#333">
-    <tspan x="288" dy="0">Building practical security projects, documenting</tspan>
-    <tspan x="288" dy="18">real-world labs, and creating automation tools that</tspan>
-    <tspan x="288" dy="18">improve detection, analysis, and defensive workflows.</tspan>
+  <text x="310" y="175" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    <tspan x="310" dy="0">Building practical security projects, documenting</tspan>
+    <tspan x="310" dy="18">real-world labs, and creating automation tools that</tspan>
+    <tspan x="310" dy="18">improve detection, analysis, and defensive workflows.</tspan>
   </text>
 
-  <text x="288" y="224" font-family="Arial, sans-serif" font-size="12" fill="#555">
-    <tspan x="288" dy="0">Goal: develop into a well-rounded professional who</tspan>
-    <tspan x="288" dy="18">helps organisations identify risks and respond</tspan>
-    <tspan x="288" dy="18">effectively to modern cyber threats.</tspan>
+  <text x="310" y="245" font-family="Arial, sans-serif" font-size="12" fill="#555">
+    <tspan x="310" dy="0">Goal: help organisations identify risks, secure systems,</tspan>
+    <tspan x="310" dy="18">and respond effectively to modern cyber threats.</tspan>
   </text>
 
-  <rect x="288" y="272" width="50" height="3" rx="1.5" fill="#4a90d9" opacity="0.7"/>
-  <rect x="344" y="272" width="32" height="3" rx="1.5" fill="#a78bfa" opacity="0.45"/>
-  <rect x="382" y="272" width="18" height="3" rx="1.5" fill="#4a90d9" opacity="0.2"/>
+  <!-- Accent bars -->
+  <rect x="310" y="265" width="55" height="4" rx="2" fill="#4a90d9" opacity="0.75"/>
+  <rect x="372" y="265" width="36" height="4" rx="2" fill="#a78bfa" opacity="0.55"/>
+  <rect x="415" y="265" width="20" height="4" rx="2" fill="#4a90d9" opacity="0.3"/>
 </svg>
 
-</div>
-
-<!-- Fallback for GitHub README -->
-
-<div align="center">
-  <div style="width:680px; background:#f0f2f5; border:1px solid #c8c8d0; border-radius:14px; padding:20px; font-family:Arial, sans-serif;">
-    <img src="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2" width="220" height="220" style="border-radius:50%; border:2px solid #4a90d9; object-fit:cover;" />
-    <h3 style="color:#185FA5;">Aspiring cybersecurity professional</h3>
-    <p style="color:#333;">Strong interest in Security Operations, AI Security, Cloud Security, Active Directory, and GRC.</p>
-    <p style="color:#333;">Building practical security projects, documenting real-world labs, and creating automation tools that improve detection, analysis, and defensive workflows.</p>
-    <p style="color:#555;">Goal: develop into a well-rounded professional who helps organisations identify risks and respond effectively to modern cyber threats.</p>
-  </div>
 </div>
 <div align="center">
 
