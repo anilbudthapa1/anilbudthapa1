@@ -19,32 +19,32 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="230" align="center">
-      <img
-        src="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2"
-        width="200"
-        height="200"
-        style="border-radius:50%; object-fit:cover;"
-        alt="About Me"
-      />
-    </td>
-    <td width="430">
-      <h3>𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍</h3>
-      <p>
-        <i>
-          I am an aspiring cybersecurity professional with a strong interest in
-          <b>Security Operations, AI Security, Cloud Security, Active Directory, and GRC</b>.
-          I enjoy building practical security projects, documenting real-world labs,
-          and creating automation tools that improve detection, analysis, and defensive workflows.
-          My goal is to develop into a well-rounded cybersecurity professional who can help
-          organisations identify risks, secure systems, and respond effectively to modern cyber threats.
-        </i>
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="display:flex; align-items:center; justify-content:center; gap:24px; max-width:760px;">
+
+<img
+  src="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2"
+  width="190"
+  height="190"
+  style="border-radius:50%; object-fit:cover;"
+  alt="About Me"
+/>
+
+<div align="left" style="max-width:500px;">
+
+<h3>𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍</h3>
+
+<i>
+I am an aspiring cybersecurity professional with a strong interest in
+<b>Security Operations, AI Security, Cloud Security, Active Directory, and GRC</b>.
+I enjoy building practical security projects, documenting real-world labs,
+and creating automation tools that improve detection, analysis, and defensive workflows.
+My goal is to develop into a well-rounded cybersecurity professional who can help
+organisations identify risks, secure systems, and respond effectively to modern cyber threats.
+</i>
+
+</div>
+
+</div>
 
 </div>
 <div align="center">
