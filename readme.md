@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:312e81,70:7c3aed,100:0f172a&height=280&section=header&text=Anil%20Budthapa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Cloud%20Security%20%7C%20Active%20Directory%20%7C%20GRC&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:312e81,70:7c3aed,100:0f172a&height=260&section=header&text=Anil%20Budthapa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Cloud%20Security%20%7C%20Active%20Directory%20%7C%20GRC&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Building+Real-World+Cybersecurity+Projects;Security+Analyst+%7C+Cloud+Security+%7C+AI+Security;Learning+Deeply+%7C+Building+Practically+%7C+Securing+Responsibly" />
 
@@ -14,6 +14,12 @@
 </div>
 
 ---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:7c3aed,100:020617&height=4" />
+
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -39,6 +45,12 @@ currently_building:
 
 ---
 
+<div align="center">
+
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=100&color=7C3AED&center=true&vCenter=true&width=1000&lines=%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93;%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92;%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91+%E2%96%92+%E2%96%93+%E2%96%91" />
+
+</div>
+
 ## 🚀 Current Focus
 
 <img src="https://img.shields.io/badge/SOC%20Analysis-111827?style=for-the-badge&logo=elastic&logoColor=white" />
@@ -49,6 +61,12 @@ currently_building:
 <img src="https://img.shields.io/badge/AI%20Security-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 
 ---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,50:312e81,100:7c3aed&height=120&section=header&text=Security%20%7C%20Cloud%20%7C%20AI%20%7C%20GRC&fontSize=25&fontColor=ffffff&animation=twinkling" />
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -80,6 +98,12 @@ currently_building:
 | 🔎 **Vulnerability Management Platform** | Scan, classify, report, and track vulnerabilities |
 
 ---
+
+<div align="center">
+
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=100&color=00FF9C&center=true&vCenter=true&width=1000&lines=01010101+10101010+00110011+11001100+11110000;10101010+01010101+11001100+00110011+00001111;00110011+11110000+01010101+10101010+11001100" />
+
+</div>
 
 ## 🧠 Cybersecurity Roadmap
 
