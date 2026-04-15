@@ -16,28 +16,9 @@
 
 </div>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
-I am an aspiring cybersecurity professional building hands-on skills in **Security Operations, AI Security, Cloud Security, Active Directory, and GRC**.
-
-I enjoy creating real-world security projects, writing clean documentation, building automation tools, and learning how attackers think so I can defend systems better.
-
-```yaml
-name: Anil Budthapa
-username: anilbudthapa1
-status: building_security_portfolio
-focus:
-  - Security Analyst
-  - Cloud Security
-  - AI Security
-  - Active Directory Security
-  - GRC
-mission:
-  - Detect threats
-  - Secure systems
-  - Automate analysis
-  - Build practical labs
-```
+*I am an aspiring cybersecurity professional with a strong interest in Security Operations, AI Security, Cloud Security, Active Directory, and GRC. I enjoy building practical security projects, documenting real-world labs, and creating automation tools that improve detection, analysis, and defensive workflows. My goal is to develop into a well-rounded cybersecurity professional who can help organisations identify risks, secure systems, and respond effectively to modern cyber threats.*
 
 <div align="center">
 
