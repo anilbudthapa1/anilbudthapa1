@@ -16,8 +16,11 @@
 
 </div>
 
-## <img width="1536" height="1024" alt="aboutme" src="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2" />
+<div align="left">
 
+<img width="220" alt="aboutme" src="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2" />
+
+</div>
 
 *I am an aspiring cybersecurity professional with a strong interest in Security Operations, AI Security, Cloud Security, Active Directory, and GRC. I enjoy building practical security projects, documenting real-world labs, and creating automation tools that improve detection, analysis, and defensive workflows. My goal is to develop into a well-rounded cybersecurity professional who can help organisations identify risks, secure systems, and respond effectively to modern cyber threats.*
 
