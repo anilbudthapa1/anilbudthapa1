@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Anil Budthapa
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=850&lines=Cybersecurity+Student+%7C+Security+Analyst+Path;Security+%2B+AI+%2B+Cloud+%2B+Active+Directory+%2B+GRC;Building+Real-World+Security+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=850&lines=Cybersecurity+Professional+%7C+Security+Analyst+Path;Security+%2B+AI+%2B+Cloud+%2B+Active+Directory+%2B+GRC;Building+Real-World+Security+Projects" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=anilbudthapa1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Building%20Portfolio-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Goal-Security%20Analyst-red?style=for-the-badge" />
@@ -23,7 +23,6 @@ I enjoy creating real-world security projects, writing clean documentation, buil
 
 ```yaml
 name: Anil Budthapa
-role: Cybersecurity Student
 focus:
   - Security Analyst
   - Cloud Security
@@ -85,13 +84,13 @@ currently_building:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anilbudthapa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilbudthapa1&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anilbudthapa1&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -101,7 +100,7 @@ currently_building:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anilbudthapa&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -111,7 +110,7 @@ currently_building:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/anilbudthapa1/anilbudthapa1/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -131,15 +130,15 @@ I am building my GitHub as a professional cybersecurity portfolio with practical
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/anilbudthapa">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:hypemsltech@gmail.com@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/anilbudthapa1">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
