@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="curr" src="https://github.com/user-attachments/assets/a752782e-3eaa-448e-a440-3057f14b26d5" />
+<img width="1536" height="1024" alt="curr" src="https://github.com/user-attachments/assets/e4c9c88a-696a-4a16-a505-b4360bb356f6" />
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:000000,70:001100,100:000000&height=310&section=header&text=Anil%20Budthapa&fontSize=65&fontColor=00ff41&animation=twinkling&fontAlignY=36&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Cloud%20Security%20%7C%20Active%20Directory%20%7C%20GRC&descAlignY=56&descSize=19&descColor=00ff99" />
 
@@ -60,7 +62,7 @@ organisations identify risks, secure systems, and respond effectively to modern 
 <div style="display:flex; align-items:center; justify-content:center; gap:24px; max-width:760px;">
 
 <img
-  src="https://github.com/user-attachments/assets/71f8bad7-4031-4a01-b916-7b31c42ddfb1"
+  src="https://github.com/user-attachments/assets/1af1625c-a464-49f3-8f32-272993b5b970"
   width="190"
   height="190"
   style="border-radius:50%; object-fit:cover;"
