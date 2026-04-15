@@ -16,10 +16,69 @@
 
 </div>
 
-<div align="left">
+<div align="center">
+<svg width="680" height="300" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="circleOnly">
+      <circle cx="120" cy="150" r="113"/>
+    </clipPath>
+    <clipPath id="leftHalfClip">
+      <rect x="160" y="25" width="115" height="250"/>
+    </clipPath>
+    <clipPath id="cardClip">
+      <rect x="160" y="25" width="490" height="250" rx="14"/>
+    </clipPath>
+  </defs>
 
-<img width="220" alt="aboutme" src="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2" />
+  <!-- Card rectangle -->
+  <rect x="160" y="25" width="490" height="250" rx="14" fill="#f0f2f5" stroke="#c8c8d0" stroke-width="1"/>
 
+  <!-- Your photo clipped inside the circle -->
+  <image
+    href="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2"
+    x="5" y="35"
+    width="230" height="230"
+    preserveAspectRatio="xMidYMid slice"
+    clip-path="url(#circleOnly)"
+  />
+
+  <!-- Circle border -->
+  <circle cx="120" cy="150" r="113" fill="none" stroke="#4a90d9" stroke-width="2"/>
+
+  <!-- Inner dashed rings -->
+  <circle cx="120" cy="150" r="60" fill="none" stroke="#4a90d9" stroke-width="0.8" stroke-dasharray="4 3" opacity="0.5"/>
+  <circle cx="120" cy="150" r="80" fill="none" stroke="#4a90d9" stroke-width="0.5" stroke-dasharray="2 4" opacity="0.25"/>
+
+  <!-- Divider line -->
+  <line x1="288" y1="68" x2="635" y2="68" stroke="#4a90d9" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- Heading -->
+  <text x="288" y="60" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#185FA5">Aspiring cybersecurity professional</text>
+
+  <!-- Bio text -->
+  <text x="288" y="94" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    <tspan x="288" dy="0">Strong interest in Security Operations, AI Security,</tspan>
+    <tspan x="288" dy="18">Cloud Security, Active Directory, and GRC.</tspan>
+  </text>
+
+  <text x="288" y="150" font-family="Arial, sans-serif" font-size="12" fill="#333">
+    <tspan x="288" dy="0">Building practical security projects, documenting</tspan>
+    <tspan x="288" dy="18">real-world labs, and creating automation tools that</tspan>
+    <tspan x="288" dy="18">improve detection, analysis, and defensive workflows.</tspan>
+  </text>
+
+  <text x="288" y="224" font-family="Arial, sans-serif" font-size="12" fill="#555">
+    <tspan x="288" dy="0">Goal: develop into a well-rounded professional who</tspan>
+    <tspan x="288" dy="18">helps organisations identify risks and respond</tspan>
+    <tspan x="288" dy="18">effectively to modern cyber threats.</tspan>
+  </text>
+
+  <!-- Accent bars -->
+  <rect x="288" y="272" width="50" height="3" rx="1.5" fill="#4a90d9" opacity="0.7"/>
+  <rect x="344" y="272" width="32" height="3" rx="1.5" fill="#a78bfa" opacity="0.45"/>
+  <rect x="382" y="272" width="18" height="3" rx="1.5" fill="#4a90d9" opacity="0.2"/>
+
+</svg>
 </div>
 
 *I am an aspiring cybersecurity professional with a strong interest in Security Operations, AI Security, Cloud Security, Active Directory, and GRC. I enjoy building practical security projects, documenting real-world labs, and creating automation tools that improve detection, analysis, and defensive workflows. My goal is to develop into a well-rounded cybersecurity professional who can help organisations identify risks, secure systems, and respond effectively to modern cyber threats.*
