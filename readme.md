@@ -1,5 +1,3 @@
-<img width="1536" height="1024" alt="curr" src="https://github.com/user-attachments/assets/a752782e-3eaa-448e-a440-3057f14b26d5" />
-<img width="1536" height="1024" alt="curr" src="https://github.com/user-attachments/assets/e4c9c88a-696a-4a16-a505-b4360bb356f6" />
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:000000,70:001100,100:000000&height=310&section=header&text=Anil%20Budthapa&fontSize=65&fontColor=00ff41&animation=twinkling&fontAlignY=36&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Cloud%20Security%20%7C%20Active%20Directory%20%7C%20GRC&descAlignY=56&descSize=19&descColor=00ff99" />
 
