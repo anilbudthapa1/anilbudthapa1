@@ -17,45 +17,36 @@
 </div>
 
 <div align="center">
+
 <svg width="680" height="300" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <clipPath id="circleOnly">
+    <clipPath id="aboutMeCircleClip">
       <circle cx="120" cy="150" r="113"/>
-    </clipPath>
-    <clipPath id="leftHalfClip">
-      <rect x="160" y="25" width="115" height="250"/>
-    </clipPath>
-    <clipPath id="cardClip">
-      <rect x="160" y="25" width="490" height="250" rx="14"/>
     </clipPath>
   </defs>
 
-  <!-- Card rectangle -->
   <rect x="160" y="25" width="490" height="250" rx="14" fill="#f0f2f5" stroke="#c8c8d0" stroke-width="1"/>
 
-  <!-- Your photo clipped inside the circle -->
   <image
     href="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2"
-    x="5" y="35"
-    width="230" height="230"
+    x="5"
+    y="35"
+    width="230"
+    height="230"
     preserveAspectRatio="xMidYMid slice"
-    clip-path="url(#circleOnly)"
+    clip-path="url(#aboutMeCircleClip)"
   />
 
-  <!-- Circle border -->
   <circle cx="120" cy="150" r="113" fill="none" stroke="#4a90d9" stroke-width="2"/>
-
-  <!-- Inner dashed rings -->
   <circle cx="120" cy="150" r="60" fill="none" stroke="#4a90d9" stroke-width="0.8" stroke-dasharray="4 3" opacity="0.5"/>
   <circle cx="120" cy="150" r="80" fill="none" stroke="#4a90d9" stroke-width="0.5" stroke-dasharray="2 4" opacity="0.25"/>
 
-  <!-- Divider line -->
+  <text x="288" y="60" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#185FA5">
+    Aspiring cybersecurity professional
+  </text>
+
   <line x1="288" y1="68" x2="635" y2="68" stroke="#4a90d9" stroke-width="0.5" opacity="0.4"/>
 
-  <!-- Heading -->
-  <text x="288" y="60" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#185FA5">Aspiring cybersecurity professional</text>
-
-  <!-- Bio text -->
   <text x="288" y="94" font-family="Arial, sans-serif" font-size="12" fill="#333">
     <tspan x="288" dy="0">Strong interest in Security Operations, AI Security,</tspan>
     <tspan x="288" dy="18">Cloud Security, Active Directory, and GRC.</tspan>
@@ -73,16 +64,24 @@
     <tspan x="288" dy="18">effectively to modern cyber threats.</tspan>
   </text>
 
-  <!-- Accent bars -->
   <rect x="288" y="272" width="50" height="3" rx="1.5" fill="#4a90d9" opacity="0.7"/>
   <rect x="344" y="272" width="32" height="3" rx="1.5" fill="#a78bfa" opacity="0.45"/>
   <rect x="382" y="272" width="18" height="3" rx="1.5" fill="#4a90d9" opacity="0.2"/>
-
 </svg>
+
 </div>
 
-*I am an aspiring cybersecurity professional with a strong interest in Security Operations, AI Security, Cloud Security, Active Directory, and GRC. I enjoy building practical security projects, documenting real-world labs, and creating automation tools that improve detection, analysis, and defensive workflows. My goal is to develop into a well-rounded cybersecurity professional who can help organisations identify risks, secure systems, and respond effectively to modern cyber threats.*
+<!-- Fallback for GitHub README -->
 
+<div align="center">
+  <div style="width:680px; background:#f0f2f5; border:1px solid #c8c8d0; border-radius:14px; padding:20px; font-family:Arial, sans-serif;">
+    <img src="https://github.com/user-attachments/assets/39e8c6d8-e2b2-46af-be01-0e959efd96b2" width="220" height="220" style="border-radius:50%; border:2px solid #4a90d9; object-fit:cover;" />
+    <h3 style="color:#185FA5;">Aspiring cybersecurity professional</h3>
+    <p style="color:#333;">Strong interest in Security Operations, AI Security, Cloud Security, Active Directory, and GRC.</p>
+    <p style="color:#333;">Building practical security projects, documenting real-world labs, and creating automation tools that improve detection, analysis, and defensive workflows.</p>
+    <p style="color:#555;">Goal: develop into a well-rounded professional who helps organisations identify risks and respond effectively to modern cyber threats.</p>
+  </div>
+</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=120&color=00FF41&center=true&vCenter=true&width=950&lines=01001000+01000001+01000011+01001011+01000101+01010010;SOC_ANALYSIS+%7C+THREAT_DETECTION+%7C+CLOUD_SECURITY;ACCESS_GRANTED+%7C+SYSTEM_HARDENED+%7C+LOGS_MONITORED" />
