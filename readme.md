@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,30:1e1b4b,60:6d28d9,100:020617&height=340&section=header&text=Anil%20Budthapa&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Cloud%20Security%20%7C%20Active%20Directory%20%7C%20GRC&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:1e1b4b,60:6d28d9,100:020617&height=300&section=header&text=Anil%20Budthapa&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Cloud%20Security%20%7C%20Active%20Directory%20%7C%20GRC&descAlignY=56&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=950&lines=Building+Real-World+Cybersecurity+Projects;Security+Analyst+%7C+Cloud+Security+%7C+AI+Security;Learning+Deeply+%7C+Building+Practically+%7C+Securing+Responsibly" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=950&lines=Learning+Deeply+%7C+Building+Practically+%7C+Securing+Responsibly;Building+Real-World+Cybersecurity+Projects;Security+Analyst+%7C+Cloud+Security+%7C+AI+Security" />
 
 <br/>
 
@@ -58,7 +58,7 @@ currently_building:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,35:312e81,70:7c3aed,100:020617&height=170&section=header&text=Security%20%7C%20Cloud%20%7C%20AI%20%7C%20GRC&fontSize=33&fontColor=ffffff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,35:312e81,70:7c3aed,100:020617&height=150&section=header&text=Security%20%7C%20Cloud%20%7C%20AI%20%7C%20GRC&fontSize=32&fontColor=ffffff&animation=twinkling" />
 
 </div>
 
@@ -99,7 +99,7 @@ currently_building:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:020617,30:312e81,60:7c3aed,100:020617&height=180&section=header&text=010101%20Threat%20Detection%20010101&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,30:312e81,60:7c3aed,100:020617&height=140&section=header&text=010101%20Threat%20Detection%20010101&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
