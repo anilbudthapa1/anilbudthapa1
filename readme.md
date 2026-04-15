@@ -104,7 +104,7 @@ organisations identify risks, secure systems, and respond effectively to modern 
   width="250"
   height="190"
   style="border-radius:50%; object-fit:cover;"
-  alt="About Me"
+  alt="Feature"
 />
 
 | Project | Description |
@@ -119,17 +119,16 @@ organisations identify risks, secure systems, and respond effectively to modern 
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
-## 🧠 Cybersecurity Roadmap
 
-```txt
-Networking → Linux → Python → Security Tools → SOC → Cloud Security → AD Security → AI Security → GRC
-```
-
----
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff41,100:000000&height=4" />
-## 📊 GitHub Stats
 
 <div align="center">
+<img
+  src="https://github.com/user-attachments/assets/a109bf1e-0269-4d18-aee9-06515d06ead2"
+  width="250"
+  height="190"
+  style="border-radius:50%; object-fit:cover;"
+  alt="Feature"
+/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anilbudthapa1&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
 
